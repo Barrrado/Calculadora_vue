@@ -1,5 +1,5 @@
 <script setup>
-import { event } from 'jquery';
+
 import{reactive} from  'vue';
 
 const estado = reactive({
